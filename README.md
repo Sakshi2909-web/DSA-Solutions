@@ -90,6 +90,7 @@
 ## Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Sakshi8292/DSA-Solutions/tree/master/0101-symmetric-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Sakshi8292/DSA-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -98,9 +99,18 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Sakshi8292/DSA-Solutions/tree/master/0101-symmetric-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Sakshi8292/DSA-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Sakshi8292/DSA-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+## Depth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/Sakshi8292/DSA-Solutions/tree/master/0101-symmetric-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/Sakshi8292/DSA-Solutions/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
