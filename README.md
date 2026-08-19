@@ -57,6 +57,7 @@
 | [0169-majority-element](https://github.com/Sakshi8292/DSA-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sakshi8292/DSA-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sakshi8292/DSA-Solutions/tree/master/0242-valid-anagram) |
+| [1399-count-largest-group](https://github.com/Sakshi8292/DSA-Solutions/tree/master/1399-count-largest-group) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -67,6 +68,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Sakshi8292/DSA-Solutions/tree/master/0169-majority-element) |
+| [1399-count-largest-group](https://github.com/Sakshi8292/DSA-Solutions/tree/master/1399-count-largest-group) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -136,4 +138,8 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Sakshi8292/DSA-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Sakshi8292/DSA-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sakshi8292/DSA-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+## Math
+|  |
+| ------- |
+| [1399-count-largest-group](https://github.com/Sakshi8292/DSA-Solutions/tree/master/1399-count-largest-group) |
 <!---LeetCode Topics End-->
