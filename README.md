@@ -31,6 +31,7 @@
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/Sakshi8292/DSA-Solutions/tree/master/0071-simplify-path) |
+| [0242-valid-anagram](https://github.com/Sakshi8292/DSA-Solutions/tree/master/0242-valid-anagram) |
 ## Stack
 |  |
 | ------- |
@@ -47,6 +48,7 @@
 | [0169-majority-element](https://github.com/Sakshi8292/DSA-Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sakshi8292/DSA-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Sakshi8292/DSA-Solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Sakshi8292/DSA-Solutions/tree/master/0242-valid-anagram) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sakshi8292/DSA-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Hash Table
 |  |
@@ -54,6 +56,7 @@
 | [0001-two-sum](https://github.com/Sakshi8292/DSA-Solutions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Sakshi8292/DSA-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sakshi8292/DSA-Solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Sakshi8292/DSA-Solutions/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
 |  |
 | ------- |
