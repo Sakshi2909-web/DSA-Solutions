@@ -11,6 +11,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sakshi8292/DSA-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Sakshi8292/DSA-Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sakshi8292/DSA-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/Sakshi8292/DSA-Solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Sakshi8292/DSA-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Sakshi8292/DSA-Solutions/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Sakshi8292/DSA-Solutions/tree/master/0303-range-sum-query-immutable) |
@@ -45,12 +46,14 @@
 | [0088-merge-sorted-array](https://github.com/Sakshi8292/DSA-Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Sakshi8292/DSA-Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sakshi8292/DSA-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/Sakshi8292/DSA-Solutions/tree/master/0217-contains-duplicate) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sakshi8292/DSA-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sakshi8292/DSA-Solutions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Sakshi8292/DSA-Solutions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Sakshi8292/DSA-Solutions/tree/master/0217-contains-duplicate) |
 ## Divide and Conquer
 |  |
 | ------- |
