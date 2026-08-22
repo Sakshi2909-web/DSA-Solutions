@@ -32,6 +32,7 @@
 | ------- |
 | [0071-simplify-path](https://github.com/Sakshi8292/DSA-Solutions/tree/master/0071-simplify-path) |
 | [0242-valid-anagram](https://github.com/Sakshi8292/DSA-Solutions/tree/master/0242-valid-anagram) |
+| [0459-repeated-substring-pattern](https://github.com/Sakshi8292/DSA-Solutions/tree/master/0459-repeated-substring-pattern) |
 ## Stack
 |  |
 | ------- |
@@ -142,4 +143,16 @@
 |  |
 | ------- |
 | [1399-count-largest-group](https://github.com/Sakshi8292/DSA-Solutions/tree/master/1399-count-largest-group) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/Sakshi8292/DSA-Solutions/tree/master/0459-repeated-substring-pattern) |
+## Z Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/Sakshi8292/DSA-Solutions/tree/master/0459-repeated-substring-pattern) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/Sakshi8292/DSA-Solutions/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
